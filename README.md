@@ -9,11 +9,11 @@ Using Genetic Algorithms to optimize the allocation of services or facilities to
 <li>Scalability: The solution is designed to scale, accommodating varying sizes of regions and populations. This makes it adaptable for different scenarios, from local municipalities to entire regions or countries.</li>
 </ul>
 
-# Run the Algorithm: Execute the Genetic Algorithm to find the optimized allocation of service or facility centers.
+<H2>Run the Algorithm:</H2> Execute the Genetic Algorithm to find the optimized allocation of service or facility centers.
 
-# Visualization: Visualize the results through interactive reports, facilitating decision-making and strategic planning.
+<H2>Visualization:</H2>. Visualize the results through interactive reports, facilitating decision-making and strategic planning.
 
-# Dependencies:
+<H2>Dependencies:</H2>
 <ol>
 <li>Python (>= 3.6)</li>
 <li>NumPy</li>
