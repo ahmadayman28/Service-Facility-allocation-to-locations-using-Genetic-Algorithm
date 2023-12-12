@@ -18,6 +18,6 @@ Using Genetic Algorithms to optimize the allocation of services or facilities to
 <li>Python (>= 3.6)</li>
 <li>NumPy</li>
 <li>Matplotlib</li>
-<li>>math</li>
+<li>math</li>
 <li>random</li>
 </ol>
